@@ -32,11 +32,11 @@
 // isNan(a); // check if number or not and returns boolean
 
 // object
-// var obj = {
-// 	name: 'Sanket',
-// 	address: 'Bharatpur',
-// 	phone: 9854545656
-// };
+var obj = {
+	name: 'Sanket',
+	address: 'Bharatpur',
+	phone: 9854545656
+};
 // obj.hasOwnProperty('name');
 
 // //obj to array
@@ -50,3 +50,13 @@
  
 //  str to object
 //  var obj = JSON.parse(tostr);
+
+// loop
+// for in loop =>> better for objects
+for(var sans in obj){
+	console.log('key||property',sans);
+	console.log('value',obj[sans]);
+}
+
+// array ccentric loop
+// forEach filter map reduce every some find etc
