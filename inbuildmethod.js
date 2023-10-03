@@ -60,3 +60,8 @@ for(var sans in obj){
 
 // array ccentric loop
 // forEach filter map reduce every some find etc
+
+// example of reduce
+phones.forEach(function(item,i) {
+	item.status = 'availabel';
+});
