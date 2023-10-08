@@ -14,7 +14,7 @@ console.log(test)
 // games.splice(games.indexOf('COD'),3)
 // console.log(games)
 
-// add
+// add 
 games.splice(games.indexOf('COD'),0,'CandyCrush')
 // multiple data can be passed or removed by adding values after the index
 
