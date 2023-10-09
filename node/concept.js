@@ -10,3 +10,4 @@
 // npm uninstall <package_name> --save 
 // it will remove and store in node_modules and update in package.json
 
+// something must be added lol
