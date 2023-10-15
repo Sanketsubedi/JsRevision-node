@@ -36,4 +36,4 @@ myWrite('Hello.txt', 'Hello My name is Sanket Subedi. I am a learner.I like JS')
     })
     .catch(function (err) {
         console.log('err>>>', err);
-    })
+    });
