@@ -27,3 +27,4 @@
 // }
 // var result = myfn(3)(35)(5);
 // console.log('res>>>>>>', result);
+ggs
