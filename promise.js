@@ -1,3 +1,4 @@
+// this is not a promise to make to your gf/bf lol
 // promise is an object which represent future result value
 // object is collection of key value pair
 // eg. details = {
