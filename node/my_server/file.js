@@ -14,7 +14,7 @@ const fs = require('fs');
 // console.log('created');
 
 // in es6 concat garda + ko satto ${fileName}
-
+// ok
 
 // in a function
 function myWrite(fileName, content) {
