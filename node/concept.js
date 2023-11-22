@@ -11,4 +11,4 @@
 // it will remove and store in node_modules and update in package.json
 
 // something must be added lol
-// delayed study
+// delayed study plz
